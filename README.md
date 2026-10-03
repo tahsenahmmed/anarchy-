@@ -1,0 +1,1 @@
+# Second Brain\n\nMobile-first personal knowledge app backed by Supabase.\n\n## MVP\n- Email/password authentication\n- Markdown upload and ingestion\n- RAG chat through Supabase Edge Functions\n- Retrieved source display\n- Notes library\n- PWA shell\n\nNever place the Gemini API key or Supabase service-role/secret keys in this repository.
